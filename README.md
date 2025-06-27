@@ -18,16 +18,17 @@ Currently building **UX-frindly and scalable applications** for over 1.1M users 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&theme=dark&include_all_commits=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&include_all_commits=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?usernameowside-v2me=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&include_all_commits=true" />
 </picture>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact)
 ---
 
 ## 📫 Let's Connect
