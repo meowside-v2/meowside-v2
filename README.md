@@ -3,7 +3,6 @@
 
 # 👋 Hi, I'm David Knieradl
 
-
 <table border="0">
   <tr>
     <td width="60%">
@@ -22,7 +21,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact" alt="Top Langs" />
     </td>
   </tr>
-</div>
+</table>
 
 
 
