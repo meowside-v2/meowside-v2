@@ -13,7 +13,7 @@
 <table border="0">
   <tbody border="0">
     <tr border="0">
-      <td width="60%" border="0" valign="top">
+      <td border="0" valign="top">
         <p>🎯 Senior Software Engineer** focused on crafting high-performance, user-first digital products using modern technologies like .NET 8 and React.</p>
         <p>
           I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.
@@ -21,7 +21,7 @@
           Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
         </p>
       </td>
-      <td width="40%" border="0">
+      <td width="auto" border="0">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact" alt="Top Langs" />
       </td>
     </tr>
