@@ -3,10 +3,18 @@
 
 # 👋 Hi, I'm David Knieradl
 
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />  
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/WPF-CC00CC?style=flat-square" alt="WPF" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Maplibre-2E86AB?style=flat-square" alt="Maplibre" />
+
 <table border="0">
-  <tbody>
-    <tr>
-      <td width="60%">
+  <tbody border="0">
+    <tr border="0">
+      <td width="60%" border="0" valign="top">
         <p>🎯 Senior Software Engineer** focused on crafting high-performance, user-first digital products using modern technologies like .NET 8 and React.</p>
         <p>
           I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.
@@ -14,15 +22,7 @@
           Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
         </p>
       </td>
-      <td width="40%">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />  
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/WPF-CC00CC?style=flat-square" alt="WPF" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Maplibre-2E86AB?style=flat-square" alt="Maplibre" />
-        <br>
+      <td width="40%" border="0">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact" alt="Top Langs" />
       </td>
     </tr>
