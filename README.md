@@ -18,7 +18,7 @@
         <p>
           I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.
           <br>
-          Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
+          Currently building UX-frindly and scalable applications for over 1.1M users at Erosstar.cz.
         </p>
       </td>
       <td width="35%" border="0">
