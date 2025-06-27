@@ -22,7 +22,7 @@
         </p>
       </td>
       <td width="25%" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact&theme=ocean_dark" alt="Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact&theme=codeSTACKr" alt="Top Langs" />
       </td>
     </tr>
   </tbody>
