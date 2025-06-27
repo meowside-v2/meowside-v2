@@ -21,8 +21,8 @@
           Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
         </p>
       </td>
-      <td width="auto" border="0">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact" alt="Top Langs" />
+      <td width="25%" border="0">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact&theme=ocean_dark" alt="Top Langs" />
       </td>
     </tr>
   </tbody>
