@@ -10,15 +10,15 @@
   </div>
 
   <div style="flex: 1;">
-    ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-    ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-    ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-    ![WPF](https://img.shields.io/badge/WPF-CC00CC?style=flat-square)
-    ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-    ![Maplibre](https://img.shields.io/badge/Maplibre-2E86AB?style=flat-square)
-    
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact)
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+    <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET" />  
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+    <img src="TypeScript" alt="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/WPF-CC00CC?style=flat-square" alt="WPF" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+    <img src="https://img.shields.io/badge/Maplibre-2E86AB?style=flat-square" alt="Maplibre" />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact" alt="Top Langs" />
   </div>
 </div>
 
