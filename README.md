@@ -3,15 +3,6 @@
 
 # 👋 Hi, I'm David Knieradl
 
-🎯 **Senior Software Engineer** focused on crafting **high-performance, user-first digital products** using modern technologies like **.NET 8** and **React**.
-
-I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.  
-Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
-
----
-
-## 🔧 Tech Stack & Tools
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -20,14 +11,22 @@ Currently building **UX-frindly and scalable applications** for over 1.1M users 
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Maplibre](https://img.shields.io/badge/Maplibre-2E86AB?style=flat-square)
 
----
+🎯 **Senior Software Engineer** focused on crafting **high-performance, user-first digital products** using modern technologies like **.NET 8** and **React**.
 
-## 💡 What I’m Currently Exploring
+I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.  
+Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
 
-- 🛠 Building .NET 8 apps
-- ⚡ Performance tuning, memory profiling, and UI responsiveness
-- 🔐 Designing scalable systems for **privacy-first product experiences**
-- 📚 Advancing academic studies in **Software Engineering (BSc)**
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?usernameowside-v2me=anuraghazra&show_icons=true" />
+</picture>
 
 ---
 
