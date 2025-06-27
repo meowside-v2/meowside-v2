@@ -16,6 +16,7 @@
 I lead projects end-to-end — from system architecture and API design to pixel-perfect UI and performance tuning.  
 Currently building **UX-frindly and scalable applications** for over 1.1M users at Erosstar.cz.
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&theme=dark&include_all_commits=true"
@@ -27,6 +28,7 @@ Currently building **UX-frindly and scalable applications** for over 1.1M users 
   />
   <img src="https://github-readme-stats.vercel.app/api?username=meowside-v2&show_icons=true&include_all_commits=true" />
 </picture>
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meowside-v2&layout=compact)
 ---
