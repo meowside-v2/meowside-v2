@@ -22,25 +22,6 @@ Currently building **UX-frindly and scalable applications** for over 1.1M users 
 
 ---
 
-## 📌 Featured Projects
-
-### 🔷 Pickup Widget V2
-> Interactive delivery selector with **140K+ dynamic locations**, built with React, TypeScript, and Maplibre GL.  
-> - Real-time address search  
-> - Filtered map view by providers & distance measurement
-> - Performance-optimized frontend served via custom REST API  
-> 📈 *+11.9% YOY transaction rate increase*
-
----
-
-### 🔷 Erosstar Rebranding System (Private)
-> Led the **brand architecture + frontend revamp** for a high-traffic ecommerce platform.  
-> - Full UI redesign with design system integration  
-> - Cross-functional coordination with marketing + design  
-> - Backend/frontend rollout delivered in under 3 months
-
----
-
 ## 💡 What I’m Currently Exploring
 
 - 🛠 Building .NET 8 apps
@@ -55,11 +36,6 @@ Currently building **UX-frindly and scalable applications** for over 1.1M users 
 - 💼 [LinkedIn](https://www.linkedin.com/in/david-knieradl)
 <!-- - 🌍 [Portfolio](https://your-personal-site.com) *(optional)* -->
 - 📥 Open to collaboration, remote roles & OSS projects
-
----
-
-> _"Well-crafted software is invisible to the user — but unforgettable when it works."_  
-> — David Knieradl
 
 
 <!--
