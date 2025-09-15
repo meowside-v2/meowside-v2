@@ -1,8 +1,3 @@
-<!-- Banner or header image (optional) -->
-
-<img alt="Banner" width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=👋%20Hi,%20I'm%20David%20Knieradl&fontAlignY=35&section=header&animation=fadeIn&fontSize=42&fontAlign=36&reversal=false&desc=in/david-knieradl&descAlign=24&descAlignY=49" />
-
-<!-- # 👋 Hi, I'm David Knieradl -->
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
